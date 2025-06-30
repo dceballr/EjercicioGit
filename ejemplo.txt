@@ -1,2 +1,2 @@
 Primer archivo para el repositorio de GitHub
-Primer cambio al archivo <<ejemplo.txt>>
+Segundo cambio al archivo <<ejemplo.txt>> usando nano.
